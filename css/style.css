@@ -1,5 +1,7 @@
 body {
-    background-color: #f0ffff;
+    background-color: #a0d2eb;
+    font-size: 18px;
+    line-height: 24px;
 }
 
 .main-block {
@@ -9,12 +11,12 @@ body {
     text-align: center;
 }
 
-.menu {
-    margin: 0% 0% 0% 15px;
+.list {
+    margin: 0% 0% 0% 350px;
     text-align: left;
     
 }
 
-.education {
+.small-line-height {
     line-height: 3px;
 }
