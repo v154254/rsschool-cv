@@ -1,0 +1,22 @@
+body {
+    background-color: #a0d2eb;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.main-block {
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;   
+    text-align: center;
+}
+
+.list {
+    margin: 0% 0% 0% 350px;
+    text-align: left;
+    
+}
+
+.small-line-height {
+    line-height: 3px;
+}
